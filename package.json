@@ -4,6 +4,7 @@
     "description": "simple extension to reset css/sass without a lot of stuff in a single file",
     "version": "0.0.1",
     "publisher": "franccesco-antonio",
+    "repository": "https://github.com/Tiesco789/scss-reset-extension",
     "engines": {
         "vscode": "^1.52.0"
     },
