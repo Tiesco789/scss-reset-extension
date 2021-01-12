@@ -2,7 +2,7 @@
     "name": "scss-reset",
     "displayName": "Scss Reset",
     "description": "simple extension to reset css/sass without a lot of stuff in a single file",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "franccesco",
     "repository": "https://github.com/Tiesco789/scss-reset-extension",
     "engines": {
